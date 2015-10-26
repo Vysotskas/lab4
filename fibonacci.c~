@@ -7,7 +7,7 @@
 
 
 MODULE_LICENSE("GPL");
-MODULE_AUTHOR("Sergey Gerasimov");
+MODULE_AUTHOR("Vysotski");
 
 
 static int fibonacci_init(void);
